@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  - Enemy Explosion
+  - Player Explosion
+  - Player Weapon
+  - Collidable Environment
+  - Explosive Environment
+  - Grenade Pickup
+  - Player Projectile
+  - Force Field
+  - Enemy
+  - Enemy Shot
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - CollidableEnvironment
+  - Enemy
+  - Weapon
+  - NonCollidableEnvironment
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

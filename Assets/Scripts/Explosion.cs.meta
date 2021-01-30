@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6f892eccfcf6c94bad7d1c1a37b94a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - barrelExplosionPrefab: {fileID: 2318940961848854191, guid: 42d67972082642047865ec720a058c71,
+      type: 3}
+  - grenadeExplosionPrefab: {fileID: 2318940961848854191, guid: 58460749705197d438e4881d80ce53cf,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
